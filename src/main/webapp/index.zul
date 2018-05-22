@@ -1,0 +1,16 @@
+<zk>
+    <separator></separator>
+
+    <window
+            vflex="true"
+            position="center"
+            apply="com.chhaichivon.view.MasterView">
+
+
+
+
+        <vlayout>
+            <label value="Hello world"/>
+        </vlayout>
+    </window>
+</zk>
